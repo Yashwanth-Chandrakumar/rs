@@ -1,3 +1,5 @@
+# exp2 dimension reduction
+
 import numpy as np
 from scipy.spatial.distance import euclidean, cosine
 from scipy.stats import pearsonr
