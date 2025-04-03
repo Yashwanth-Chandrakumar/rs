@@ -1,3 +1,4 @@
+# exp 1 data similarity measures
 import numpy as np
 from scipy.spatial.distance import euclidean, cosine
 from scipy.stats import pearsonr
